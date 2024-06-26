@@ -1,0 +1,18 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "DS 701: Tools for data science"
+  author: "Thomas Gardos and Scott Ladenheim"
+  chapters:
+    - index.qmd
+    - part: "Preliminaries"
+      chapters:
+        - 01-Intro-to-Python.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo

@@ -1,0 +1,13 @@
+project:
+  output-dir: _slides
+  render:
+    - 01-Intro-to-Python.qmd
+
+format:
+  revealjs:
+    slide-number: true
+    show-slide-number: all
+    code-fold: true
+    html-math-method: mathjax
+    controls: true
+    chalkboard: true
