@@ -8,3 +8,5 @@ syllabus/auto/*
 _build
 .DS_Store
 
+
+/.quarto/
